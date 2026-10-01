@@ -1,0 +1,175 @@
+item,item_name2023,crop,GTAP_crop,item_code,GCAM_commodity,GCAM_subsector
+Maize (corn),Maize,maize,Maize,56,Corn,CornC4
+Apples,Apples,apples,Apples,515,Fruits,FruitsTree
+"Agave fibres, raw, n.e.c.",Agave fibres nes,agave fibres nes,AgaveFibrNES,800,FiberCrop,FiberCrop
+"Kenaf, and other textile bast fibres, raw or retted","Bastfibres, other",other bastfibres,JuteLikeFibr,782,FiberCrop,FiberCrop
+"Other fibre crops, raw, n.e.c.",Fibre crops nes,fibre crops nes,FibreCropNES,821,FiberCrop,FiberCrop
+"Flax, raw or retted","Flax, raw or retted",flax fibre and tow,FlaxFibr_Tow,771,FiberCrop,FiberCrop
+"True hemp, raw or retted",Hemp tow waste,hemp tow waste,HempFibr_Tow,777,FiberCrop,FiberCrop
+"Jute, raw or retted",Jute,jute,Jute,780,FiberCrop,FiberCrop
+"Abaca, manila hemp, raw",Manila fibre (abaca),manila fibre (abaca),Abaca_M_H,809,FiberCrop,FiberCrop
+"Ramie, raw or retted",Ramie,ramie,Ramie,788,FiberCrop,FiberCrop
+"Seed cotton, unginned",Seed cotton,seed cotton,SeedCotton,328,FiberCrop,FiberCrop
+"Sisal, raw",Sisal,sisal,Sisal,789,FiberCrop,FiberCrop
+forage Products,forage Products,forage products,FrgProdNES,651,FodderGrass,FodderGrass
+Grasses Nes for forage;Sil,Grasses Nes for forage;Sil,grasses nes for forage;sil,GrsNESFrgSlg,639,FodderGrass,FodderGrass
+Grasses Nes for forage;Sil,Grasses Nes for forage;Sil,grasses nes for forage;sil,GrsNESFrgSlg,639,FodderGrass,FodderGrass
+Rye grass for forage & silage,Rye grass for forage & silage,rye grass for forage & silage,RyeGrsFrgSlg,638,FodderGrass,FodderGrass
+Alfalfa for forage and silage,Alfalfa for forage and silage,alfalfa for forage and silage,Alff4FrgSlg,641,FodderHerb,FodderHerb
+Beets for Fodder,Beets for Fodder,beets for fodder,Beets4Fodder,647,FodderHerb,FodderHerb
+Cabbage for Fodder,Cabbage for Fodder,cabbage for fodder,Cabbage4Fddr,644,FodderHerb,FodderHerb
+Carrots for Fodder,Carrots for Fodder,carrots for fodder,Carrots4Fddr,648,FodderHerb,FodderHerb
+Clover for forage and silage,Clover for forage and silage,clover for forage and silage,Clovr4FrgSlg,640,FodderHerb,FodderHerb
+Green Oilseeds for Silage,Green Oilseeds for Silage,green oilseeds for silage,GrnOlsd4Fddr,642,FodderHerb,FodderHerb
+Leguminous for Silage,Leguminous for Silage,leguminous for silage,LgmNESFrgSlg,643,FodderHerb,FodderHerb
+Maize for forage and silage,Maize for forage and silage,maize for forage and silage,Maize4FrgSlg,636,FodderHerb,FodderHerbC4
+Sorghum for forage and silage,Sorghum for forage and silage,sorghum for forage and silage,Srgm4FrgSlg,637,FodderHerb,FodderHerbC4
+Swedes for Fodder,Swedes for Fodder,swedes for fodder,Swedes4Fddr,649,FodderHerb,FodderHerb
+Turnips for Fodder,Turnips for Fodder,turnips for fodder,Turnips4Fddr,646,FodderHerb,FodderHerb
+Vegetables Roots Fodder,Vegetables Roots Fodder,vegetables roots fodder,Vgt_RootFddr,655,FodderHerb,FodderHerb
+Apricots,Apricots,apricots,Apricots,526,Fruits,FruitsTree
+Avocados,Avocados,avocados,Avocados,572,Fruits,FruitsTree
+Bananas,Bananas,bananas,Bananas,486,Fruits,FruitsTree
+Other berries and fruits of the genus vaccinium n.e.c.,Berries nes,berries nes,Berriesnes,558,Fruits,Fruits
+Blueberries,Blueberries,blueberries,Blueberries,552,Fruits,Fruits
+Cashewapple,Cashewapple,cashewapple,Cashewapple,591,Fruits,FruitsTree
+Cherries,Cherries,cherries,Cherries,531,Fruits,FruitsTree
+Sour cherries,"Cherries, sour",sour cherries,SourCherries,530,Fruits,FruitsTree
+Cranberries,Cranberries,cranberries,Cranberries,554,Fruits,Fruits
+Currants,Currants,currants,Currants,550,Fruits,Fruits
+Dates,Dates,dates,Dates,577,Fruits,FruitsTree
+Figs,Figs,figs,Figs,569,Fruits,FruitsTree
+"Other citrus fruit, n.e.c.","Fruit, citrus nes","citrus fruit, nes",CitrusFrtNES,512,Fruits,FruitsTree
+"Other fruits, n.e.c.","Fruit, fresh nes",fruit fresh nes,FrtFrshNES,619,Fruits,FruitsTree
+Other pome fruits,"Fruit, pome nes","pome fruit, nes",,542,Fruits,FruitsTree
+Other stone fruits,"Fruit, stone nes","stone fruit, nes",StnFrtNESFrh,541,Fruits,FruitsTree
+"Other tropical fruits, n.e.c.","Fruit, tropical fresh nes","fruit, tropical fresh nes",FrtTrpFrNES,603,Fruits,FruitsTree
+Gooseberries,Gooseberries,gooseberries,Gooseberries,549,Fruits,Fruits
+Pomelos and grapefruits,Grapefruit (inc. pomelos),grapefruit (inc. pomelos),Grpfrt_Pmlos,507,Fruits,FruitsTree
+Grapes,Grapes,grapes,Grapes,560,Fruits,Fruits
+Kiwi fruit,Kiwi fruit,kiwi fruit,KiwiFruit,592,Fruits,FruitsTree
+Lemons and limes,Lemons and limes,lemons and limes,Lmn_Lme,497,Fruits,FruitsTree
+"Mangoes, guavas and mangosteens","Mangoes, mangosteens, guavas","mangoes, mangosteens, guavas",Mangoes,571,Fruits,FruitsTree
+Cantaloupes and other melons,"Melons, other (inc.cantaloupes)",other melons (inc.cantaloupes),Cntlp_othMln,568,Vegetables,Vegetables
+Oranges,Oranges,oranges,Oranges,490,Fruits,FruitsTree
+Papayas,Papayas,papayas,Papayas,600,Fruits,FruitsTree
+Peaches and nectarines,Peaches and nectarines,peaches and nectarines,Peach_Nctrn,534,Fruits,FruitsTree
+Pears,Pears,pears,Pears,521,Fruits,FruitsTree
+Persimmons,Persimmons,persimmons,Persimmons,587,Fruits,FruitsTree
+Pineapples,Pineapples,pineapples,Pineapples,574,Fruits,Fruits
+Plantains and cooking bananas,Plantains and others,plantains,Plantains,489,Fruits,FruitsTree
+Plums and sloes,Plums and sloes,plums and sloes,Plums,536,Fruits,FruitsTree
+Quinces,Quinces,quinces,Quinces,523,Fruits,FruitsTree
+Raspberries,Raspberries,raspberries,Raspberries,547,Fruits,Fruits
+Strawberries,Strawberries,strawberries,Strawberries,544,Fruits,Fruits
+"Tangerines, mandarins, clementines","Tangerines, mandarins, clementines, satsumas","tangerines, mandarins, clem.",TngMndClmnt,495,Fruits,FruitsTree
+Watermelons,Watermelons,watermelons,Watermelons,567,Vegetables,Vegetables
+Green corn (maize),"Maize, green","maize, green",GrnCornMaize,446,Vegetables,Vegetables
+"Bambara beans, dry",Bambara beans,bambara beans,BambaraBeans,203,Legumes,Legumes
+"Beans, dry","Beans, dry","beans, dry",BeansDry,176,Legumes,Legumes
+"Chick peas, dry",Chick peas,chick peas,ChickPeas,191,Legumes,Legumes
+"Cow peas, dry","Cow peas, dry","cow peas, dry",CowPeasDry,195,Legumes,Legumes
+"Lentils, dry",Lentils,lentils,Lentils,201,Legumes,Legumes
+Lupins,Lupins,lupins,Lupins,210,Legumes,Legumes
+"Peas, dry","Peas, dry","peas, dry",PeasDry,187,Legumes,Legumes
+"Pigeon peas, dry",Pigeon peas,pigeon peas,PigeonPeas,197,Legumes,Legumes
+Other pulses n.e.c.,Pulses nes,"pulses, nes",Pulsesnes,211,Legumes,Legumes
+Vetches,Vetches,vetches,Vetches,205,Legumes,Legumes
+"Anise, badian, coriander, cumin, caraway, fennel and juniper berries, raw","Anise, badian, fennel, coriander","anise, badian, fennel, corian.",Ans_bdn_fnnl,711,MiscCrop,MiscCrop
+Locust beans (carobs),Carobs,carobs,Carobs,461,Vegetables,Vegetables
+"Cinnamon and cinnamon-tree flowers, raw",Cinnamon (cannella),cinnamon (canella),CnnmnCnlla,693,MiscCrop,MiscCropTree
+"Cloves (whole stems), raw",Cloves,cloves,cloves,698,MiscCrop,MiscCropTree
+Cocoa beans,"Cocoa, beans",cocoa beans,CocoaBeans,661,MiscCrop,MiscCropTree
+"Coffee, green","Coffee, green","coffee, green",CoffeeGreen,656,MiscCrop,MiscCropTree
+"Ginger, raw",Ginger,ginger,ginger,720,MiscCrop,MiscCrop
+Hop cones,Hops,hops,Hops,677,MiscCrop,MiscCrop
+Mate leaves,Mate,mate,Mate,671,MiscCrop,MiscCropTree
+Natural rubber in primary forms,"Rubber, natural",natural rubber,NatRubber,836,MiscCrop,MiscCropTree
+"Nutmeg, mace, cardamoms, raw","Nutmeg, mace and cardamoms","nutmeg, mace and cardamoms",Ntmg_Mc_Crdm,702,MiscCrop,MiscCropTree
+"Pepper (Piper spp.), raw",Pepper (piper spp.),pepper (piper spp.),Pepper,687,MiscCrop,MiscCrop
+"Peppermint, spearmint",Peppermint,peppermint,Peppermint,748,MiscCrop,MiscCrop
+"Pyrethrum, dried flowers","Pyrethrum, dried","pyrethrum,dried",PrthrmDrdFlw,754,MiscCrop,MiscCrop
+"Other stimulant, spice and aromatic crops, n.e.c.",Spices nes,"spices, nes",spicesnes,723,MiscCrop,MiscCrop
+Tea leaves,Tea,tea,Tea,667,MiscCrop,MiscCrop
+Unmanufactured tobacco,"Tobacco, unmanufactured","tobacco, unmanufactured",TbccLeaves,826,MiscCrop,MiscCrop
+"Vanilla, raw",Vanilla,vanilla,Vanilla,692,MiscCrop,MiscCrop
+"Almonds, in shell","Almonds, with shell","almonds, with shell",Almonds,221,NutsSeeds,NutsSeedsTree
+Areca nuts,Areca nuts,arecanuts,ArcNtBtl,226,NutsSeeds,NutsSeedsTree
+"Cashew nuts, in shell","Cashew nuts, with shell","cashew nuts, with shell",CashewNuts,217,NutsSeeds,NutsSeedsTree
+"Chestnuts, in shell",Chestnut,chestnuts,Chestnuts,220,NutsSeeds,NutsSeedsTree
+"Groundnuts, excluding shelled","Groundnuts, with shell","groundnuts, with shell",GrndntWShll,242,NutsSeeds,NutsSeeds
+"Hazelnuts, in shell","Hazelnuts, with shell","hazelnuts, with shell",HzlntFlbrt,225,NutsSeeds,NutsSeedsTree
+Kola nuts,Kola nuts,kolanuts,Kolanuts,224,NutsSeeds,NutsSeedsTree
+"Other nuts (excluding wild edible nuts and groundnuts), in shell, n.e.c.",Nuts nes,"nuts, nes",Nutsnes,234,NutsSeeds,NutsSeedsTree
+"Pistachios, in shell",Pistachios,pistachios,Pistachios,223,NutsSeeds,NutsSeedsTree
+Poppy seed,Poppy seed,poppy seed,PoppySeed,296,OilCrop,OilCrop
+Tallowtree seeds,Tallowtree seed,tallowtree seeds,,305,OilCrop,OilCropTree
+"Walnuts, in shell","Walnuts, with shell","walnuts, with shell",Walnuts,222,NutsSeeds,NutsSeedsTree
+Castor oil seeds,Castor oil seed,castor oil seed,CastorBeans,265,OilCrop,OilCrop
+"Coconuts, in shell",Coconuts,coconuts,Coconuts,249,OilCrop,OilCropTree
+Hempseed,Hempseed,hempseed,Hempseed,336,OilCrop,OilCrop
+Jojoba seeds,Jojoba seed,jojoba seeds,,277,OilCrop,OilCrop
+Kapok fruit,Kapok fruit,kapok fruit,KapksdShell,310,OilCrop,OilCropTree
+Karite nuts (sheanuts),Karite nuts (sheanuts),karite nuts (sheanuts),KrtNtSheant,263,OilCrop,OilCropTree
+Linseed,Linseed,linseed,Linseed,333,OilCrop,OilCrop
+Melonseed,Melonseed,melonseed,Melonseed,299,OilCrop,OilCrop
+Mustard seed,Mustard seed,mustard seed,MustardSeed,292,Rapeseed,Rapeseed
+"Other oil seeds, n.e.c.",Oilseeds nes,"oilseeds, nes",Oilseedsnes,339,OilCrop,OilCrop
+Olives,Olives,olives,Olives,260,OilCrop,OilCropTree
+Rape or colza seed,Rapeseed,rapeseed,Rapeseed,270,Rapeseed,Rapeseed
+Safflower seed,Safflower seed,safflower seed,SfflwrSeed,280,OilCrop,OilCrop
+Sesame seed,Sesame seed,sesame seed,SesameSeed,289,OilCrop,OilCrop
+Sunflower seed,Sunflower seed,sunflower seed,SnflwrSeed,267,OilCrop,OilCrop
+Tung nuts,Tung nuts,tung nuts,TungNuts,275,OilCrop,OilCropTree
+Oil palm fruit,Oil palm fruit,oil palm fruit,OilPalmFruit,254,OilPalm,OilPalmTree
+Barley,Barley,barley,Barley,44,OtherGrain,OtherGrain
+Buckwheat,Buckwheat,buckwheat,Buckwheat,89,OtherGrain,OtherGrain
+Canary seed,Canary seed,canary seed,CanarySeed,101,OtherGrain,OtherGrain
+Cereals n.e.c.,Cereals nes,"cereals, nes",Cerealsnes,108,OtherGrain,OtherGrain
+Fonio,Fonio,fonio,Fonio,94,OtherGrain,OtherGrain
+Mixed grain,"Grain, mixed",mixed grain,MixedGrain,103,OtherGrain,OtherGrain
+Millet,Millet,millet,Millet,79,OtherGrain,OtherGrainC4
+Oats,Oats,oats,Oats,75,OtherGrain,OtherGrain
+Quinoa,Quinoa,quinoa,Quinoa,92,OtherGrain,OtherGrain
+Rye,Rye,rye,Rye,71,OtherGrain,OtherGrain
+Sorghum,Sorghum,sorghum,Sorghum,83,OtherGrain,OtherGrainC4
+Triticale,Triticale,triticale,Triticale,97,OtherGrain,OtherGrain
+Rice,"Rice, paddy","rice, paddy",PaddyRice,27,Rice,Rice
+"Cassava, fresh",Cassava,cassava,Cassava,125,RootTuber,RootTuber
+Potatoes,Potatoes,potatoes,Potatoes,116,RootTuber,RootTuber
+"Edible roots and tubers with high starch or inulin content, n.e.c., fresh",Roots and tubers nes,"roots and tubers, nes",Root_TbrNES,149,RootTuber,RootTuber
+Sweet potatoes,Sweet potatoes,sweet potatoes,SweetPotato,122,RootTuber,RootTuber
+Taro,Taro (cocoyam),taro (cocoyam),TaroCocoYam,136,RootTuber,RootTuber
+Yams,Yams,yams,Yams,137,RootTuber,RootTuber
+Yautia,Yautia (cocoyam),yautia (cocoyam),YautiaCcYam,135,RootTuber,RootTuber
+Soya beans,Soybeans,soybeans,Soybeans,236,Soybean,Soybean
+Sugar beet,Sugar beet,sugar beet,SugarBeets,157,SugarCrop,SugarCrop
+Sugar cane,Sugar cane,sugar cane,SugarCane,156,SugarCrop,SugarCropC4
+Other sugar crops n.e.c.,Sugar crops nes,"sugar crops, nes",SugarCrpNES,161,SugarCrop,SugarCrop
+Artichokes,Artichokes,artichokes,Artichokes,366,Vegetables,Vegetables
+Asparagus,Asparagus,asparagus,Asparagus,367,Vegetables,Vegetables
+"Other beans, green","Beans, green","beans, green",BeanGreen,414,Vegetables,Vegetables
+"Broad beans and horse beans, dry","Broad beans, horse beans, dry","broad beans, horse beans, dry",BrdBeansDry,181,Legumes,Legumes
+Cabbages,Cabbages and other brassicas,cabbages and other brassicas,Cabbages,358,Vegetables,Vegetables
+Carrots and turnips,Carrots and turnips,carrots and turnips,Carrots,426,Vegetables,Vegetables
+Cassava leaves,Cassava leaves,cassava leaves,,378,Vegetables,Vegetables
+Cauliflowers and broccoli,Cauliflowers and broccoli,cauliflowers and broccoli,Cauliflower,393,Vegetables,Vegetables
+Chicory roots,Chicory roots,chicory roots,ChicoryRoots,459,Vegetables,Vegetables
+"Chillies and peppers, dry (Capsicum spp., Pimenta spp.), raw","Chillies and peppers, dry","chillies and peppers, dry",Pimento,689,Vegetables,Vegetables
+"Chillies and peppers, green (Capsicum spp. and Pimenta spp.)","Chillies and peppers, green","chillies and peppers, green",Chll_PpprGrn,401,Vegetables,Vegetables
+Cucumbers and gherkins,Cucumbers and gherkins,cucumbers and gherkins,Ccmbr_Ghrkn,397,Vegetables,Vegetables
+Eggplants (aubergines),Eggplants (aubergines),eggplants (aubergines),Eggplants,399,Vegetables,Vegetables
+Green garlic,Garlic,garlic,Garlic,406,Vegetables,Vegetables
+Leeks and other alliaceous vegetables,"Leeks, other alliaceous vegetables","leeks, other alliaceous veg",,407,Vegetables,Vegetables
+Lettuce and chicory,Lettuce and chicory,lettuce and chicory,Lettuce,372,Vegetables,Vegetables
+Okra,Okra,okra,Okra,430,Vegetables,Vegetables
+"Onions and shallots, dry (excluding dehydrated)","Onions, dry","onions, dry",OnionDry,403,Vegetables,Vegetables
+"Onions and shallots, green","Onions, shallots, green","onions (inc. shallots), green",OnionShlltGn,402,Vegetables,Vegetables
+"Peas, green","Peas, green","peas, green",PeasGreen,417,Vegetables,Vegetables
+"Pumpkins, squash and gourds","Pumpkins, squash and gourds","pumpkins, squash and gourds",PmpknSqshGrd,394,Vegetables,Vegetables
+Spinach,Spinach,spinach,Spinach,373,Vegetables,Vegetables
+String beans,String beans,string beans,StringBeans,423,Vegetables,Vegetables
+Tomatoes,Tomatoes,tomatoes,Tomatoes,388,Vegetables,Vegetables
+"Other vegetables, fresh n.e.c.","Vegetables, fresh nes",vegetables fresh nes,VgtbFrshNES,463,Vegetables,Vegetables
+"Broad beans and horse beans, green","Vegetables, leguminous nes","leguminous vegetables, nes",,420,Vegetables,Vegetables
+Wheat,Wheat,wheat,Wheat,15,Wheat,Wheat

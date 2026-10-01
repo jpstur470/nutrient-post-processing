@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- edited with XMLSPY v5 rel. 3 U (http://www.xmlspy.com) by Staff (PNNL) -->
+
+<queries>
+	<aQuery>
+		<all-regions/>
+		<supplyDemandQuery title="ag production by tech">
+			<axis1 name="technology">technology[@name]</axis1>
+			<axis2 name="Year">physical-output[@vintage]</axis2>
+			<xPath buildList="true" dataName="output" group="false" sumAll="false">*[@type='sector' and (local-name()='AgSupplySector')]/
+            *[@type='subsector']/*[@type='technology']/
+            output-primary/physical-output/node()</xPath><comments/>
+		</supplyDemandQuery>	
+	</aQuery>
+   <aQuery>
+		<all-regions/>
+	      <supplyDemandQuery title="nutrient inputs by ag tech">
+		    <axis1 name="sector">sector</axis1>
+		    <axis2 name="Year">demand-physical[@vintage]</axis2>
+		    <xPath buildList="true" dataName="input" group="false" sumAll="false">*[@type='sector']/*[@type='subsector']/*[@type='technology']/
+		          *[@type='input' and contains(@name,'fertilizer')]/demand-physical/node()</xPath>
+		    <comments/>
+		</supplyDemandQuery>
+   </aQuery>
+	<aQuery>
+		<all-regions/>
+      <query title="land_cover">
+         <axis1 name="land_allocation">LandLeaf</axis1>
+         <axis2 name="Year">land-allocation[@year]</axis2>
+         <xPath buildList="true" dataName="land-allocation" group="false" sumAll="false">/LandNode[@name='root' or @type='LandNode' (: collapse :)]//land-allocation/text()</xPath>
+         <comments/>    
+      </query>
+	</aQuery>
+</queries>
